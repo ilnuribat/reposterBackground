@@ -1,0 +1,23 @@
+{
+  "name": "reposterbackground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilnuribat/reposterBackground.git"
+  },
+  "author": "Ilnur Ibatullin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilnuribat/reposterBackground/issues"
+  },
+  "homepage": "https://github.com/ilnuribat/reposterBackground#readme",
+  "dependencies": {
+    "pg": "^6.1.5",
+    "request": "^2.81.0"
+  }
+}
